@@ -53,7 +53,8 @@ field_. In other words, the lower left corner of the game field corresponds
 to`left` and `bottom` positions of 0px. The starting values of the dodger's
 `bottom` and `left` properties are what places it at the bottom center of the
 game field when our game launches.
-
+ 
+ 
 Before we can use JavaScript to move the dodger, we first need to grab it and
 save a reference to it in a variable. Enter the following in the console:
 
